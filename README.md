@@ -1,2 +1,4 @@
 # ChatGPT
 Conversation with ChatGPT about string theory and the Swampland Programme
+
+This conversation is used for the paper "AI Insights into Theoretical Physics and the Swampland Program: A Journey Through the Cosmos with ChatGPT"
