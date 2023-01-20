@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  AI Insights into Theoretical Physics and the Swampland
+  Program: Conversation
+message: >-
+  This conversation was used in the paper
+  https://arxiv.org/pdf/2301.08155.pdf
+type: dataset
+authors:
+  - given-names: Kay
+    family-names: Lehnert
+    affiliation: >-
+      Department of Theoretical Physics, Maynooth
+      University, Maynooth, Ireland
+    orcid: 'https://orcid.org/0000-0002-2908-8638'
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2301.08155
+    description: 'https://arxiv.org/abs/2301.08155'
+repository-code: 'https://github.com/kabeleh/chatgpt'
+abstract: >-
+  Conversation with ChatGPT about string theory and the
+  swampland programme.
+
+
+  This conversation is used for the paper "AI Insights into
+  Theoretical Physics and the Swampland Program: A Journey
+  Through the Cosmos with ChatGPT", which can be found here:
+  https://arxiv.org/abs/2301.08155
+keywords:
+  - swampland program
+  - string theory
+  - Cosmology
+  - Swampland Conjecture
+  - ChatGPT
+  - Artificial Intelligence
+  - Natural Language Processing Model
